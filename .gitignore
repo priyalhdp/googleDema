@@ -1,2 +1,19 @@
-*.classpath
-.target
+target
+.classpath
+.project
+.settings
+classes/
+lib/
+*.log
+
+# package Files
+.war
+.tar.gz
+.zip
+.jar
+.nar
+.ear
+.rar
+
+# J2EE files
+.mtj.tmp/
